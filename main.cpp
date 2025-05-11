@@ -38,6 +38,12 @@ class UniversityChatbot : public chatbot{
             cin >> choice;
             cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
+            if (chice == 0){
+                cout << "Exiting the chatbot. Goodbye!" << endl;
+                break;
+            }
+            cout << endl;
+
         }
     }
 }
