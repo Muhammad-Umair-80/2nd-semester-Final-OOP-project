@@ -43,7 +43,43 @@ class UniversityChatbot : public chatbot{
                 break;
             }
             cout << endl;
-
+            cout << endl;
+            switch (choice) {
+                case 1:
+                    cout << "--- Department Information ---\n";
+                    displayFromFile("department.txt");
+                    break;
+                case 2:
+                    cout << "--- Campus Facilities ---\n";
+                    displayFromFile("campus.txt");
+                    break;
+                case 3:
+                    cout << "--- Faculty Information ---\n";
+                    displayFromFile("faculty.txt");
+                    break;
+                case 4:
+                    cout << "--- Admission Information ---\n";
+                    displayFromFile("admission.txt");
+                    break;
+                case 5:
+                    cout << "--- Class Timings ---\n";
+                    displayFromFile("timings.txt");
+                    break;
+                case 6:
+                    cout << "--- Rules & Regulations ---\n";
+                    displayFromFile("rules.txt");
+                    break;
+                case 7:
+                    cout << "--- Contact & Location ---\n";
+                    displayFromFile("contact.txt");
+                    break;
+                default:
+                    cout << "Invalid choice. Please select a number from 0 to 7.\n";
+            }
+            cout << "\nPress Enter to return to the main menu...";
+            cin.get();
         }
     }
-}
+};
+
+        
