@@ -82,4 +82,10 @@ class UniversityChatbot : public chatbot{
     }
 };
 
+int main() {
+    UniversityChatbot bot;
+    bot.run();
+    return 0;
+}
+
         
