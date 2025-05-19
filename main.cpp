@@ -80,6 +80,11 @@ class UniversityChatbot : public chatbot{
             cin.get();
         }
     }
+    // You can add more chatbot features here if needed.
+    // For example, a function to greet the user or provide help.
+    void greetUser() {
+        cout << "Hello! I'm your University Chatbot. How can I assist you today?\n";
+    }
 };
 
 int main() {
