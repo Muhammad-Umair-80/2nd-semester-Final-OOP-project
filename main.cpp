@@ -22,33 +22,6 @@ class chatbot{
 class UniversityChatbot : public chatbot{
     public:
     void run(){
-        greetUser();
-        // New feature: Allow user to search for a keyword in all info files
-        auto searchInFiles = [](const string& keyword) {
-            vector<string> files = {
-                "department.txt", "campus.txt", "faculty.txt",
-                "admission.txt", "timings.txt", "rules.txt", "contact.txt"
-            };
-            bool found = false;
-            for (const auto& file : files) {
-                ifstream infile(file);
-                if (!infile) continue;
-                string line;
-                int lineNum = 1;
-                while (getline(infile, line)) {
-                    if (line.find(keyword) != string::npos) {
-                        cout << "[" << file << " - line " << lineNum << "]: " << line << endl;
-                        found = true;
-                    }
-                    ++lineNum;
-                }
-            }
-            if (!found) {
-                cout << "No results found for \"" << keyword << "\" in any file.\n";
-            }
-        };
-
-        cout << "8. Search Information\n";
         while (true){
             cout<< "\nWelcome to the University Chatbot! \n";
             cout<< "1. Department information \n";
@@ -106,11 +79,6 @@ class UniversityChatbot : public chatbot{
             cout << "\nPress Enter to return to the main menu...";
             cin.get();
         }
-    }
-    // You can add more chatbot features here if needed.
-    // For example, a function to greet the user or provide help.
-    void greetUser() {
-        cout << "Hello! I'm your University Chatbot. How can I assist you today?\n";
     }
 };
 
