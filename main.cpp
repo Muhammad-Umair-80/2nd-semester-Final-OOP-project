@@ -18,6 +18,13 @@ class chatbot{
         }
         infile.close();
     }
+        string getCurrentTimestamp() {
+        time_t now = time(0);
+        char* dt = ctime(&now);
+        string timestamp(dt);
+        timestamp.pop_back(); // remove newline
+        return timestamp;
+    }
 };
 class UniversityChatbot : public chatbot{
     public:
