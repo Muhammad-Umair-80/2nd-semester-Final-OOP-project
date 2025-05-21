@@ -80,6 +80,22 @@ class UniversityChatbot : public chatbot{
             cin.get();
         }
     }
+    void generateReport() {
+        ofstream report("summary_report.txt");
+        if (!report) {
+            cerr << "Failed to create report.\n";
+            return;
+        }
+        report << "=== Chatbot Session Summary ===\n";
+        report << "Date: " << getCurrentTimestamp() << "\n\n";
+        report << "Visited Topics:\n";
+        for (const string& topic : visitedTopics) {
+            report << "- " << topic << "\n";
+        }
+        report << "\nThank you for using the chatbot!\n";
+        report.close();
+        cout << "Summary report has been saved to 'summary_report.txt'.\n";
+    }
 };
 
 int main() {
