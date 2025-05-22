@@ -1,0 +1,48 @@
+---	Name: Prof. Dr. Sharifullah Khan
+o	Designation: Professor and Dean (FCAAD)
+o	Department: dean of university.
+o	Expertise: PhD (Computer Science), School of Computing, the University of Leeds, Leeds, 2002
+o	MSc (Computer Science, Computer Centre, Gomal University, D. I. Khan, Pakistan ,1994
+o	BSc (Computer Science) ,Government Degree College No.1, D.I.Khan, Gomal University, D.I.Khan, Pakistan. 1991	
+o	Contact: sharifullah.khan@fecid.paf-iast.edu.pk
+
+---	Name: Babar Nazir, PhD
+o	Designation: Associate Professor & Chairman
+o	Department:  Computer Science
+o	Expertise:  He received the COMSATS University Islamabad merit scholarship award and Universiti Teknologi Petronas Malaysia merit scholarship award for pursuing his MS and Ph.D studies respectively.  He has more than 17 years of teaching and research experience at university level in reputed National and International organizations with more than 9 years of post-PhD experience.
+o	Contact: babar.nazir@fecid.paf-iast.edu.pk
+
+---	Name: Dr. Abdul Waheed Khan
+o	Designation: Associate Professor
+o	Department:  Computer Science
+o	Expertise: Abdul Waheed Khan is with PAF-IAST as an Associate Professor. Previously he served as associate professor at Fast School of Computing, National University of Computer and Emerging Sciences, Islamabad. He also served as assistant professor at NUST, Islamabad and King Abdulaziz University, Saudi Arabia for several years. He has done doctorate in Computer Science from Universiti Teknologi Malaysia (UTM), Malaysia in 2015 and MSc (Distinction) in Digital Communications Networks from London Metropolitan University, UK in 2008. His research interests include Software Defined Networks, Internet of Things, Wireless Sensor Networks, WBANs, and MANETs.  
+o	Contact:  waheed.khan@fecid.paf-iast.edu.pk
+
+---	Name: Dr. Maqbool Khan 
+o	Designation:  Associate Professor
+o	Department: IT and  Computer Science
+o	Expertise: Maqbool Khan received the MS Information Security degree from Huazhong University of Science and Technology (HUST), Wuhan, China in 2013 and PhD degree in Computer Science and Technology from Nanjing University, China in 2018. He worked as a Big Data Solution Architect and Data Scientist at Siemens China and Atos China for several years up to 2020. Working as an associate professor of Software Engineering & Computer Science at Department of IT & CS, Pak Austria Fachhochschule: Institute of Applied Sciences & Technology, Haripur, Pakistan. He has published several research papers in well reputed peer reviewed international conferences and journals. He is an active IEEE Member since 2014. He is also Google certified Associate Cloud Engineer and Professional Cloud Architect. 
+
+---	Name: Rizwan Akhtar
+o	Designation: Associate Professor
+o	Department:  IT & CS, PAFIAST, Feb 2024 -To till Now 
+o	Expertise: Rizwan Akhtar is working as an Associate Professor in Pak-Austria Fachhocshucle Institute of Applied  Science and Technology Mang Haripur, Pakistan. He did Ph.D in Information and Communication Engineering in the year 2014. He did his master’s degree in Engineering from UET Peshawar in the year 2011. He worked as Associate Professor at Jiangsu University of Science and Technology. His major research includes ITS, VANet, P2P Communication, Network Securities and Cloud Computing. He has published more than 50 research articles in international journals and conferences.   
+o	Contact: rizwan.akhtar@fecid.paf-iast.edu.pk
+
+---	Name: Dr. Arshad Iqbal 
+o	Designation: Assistant Professor 
+o	Department: Ph.D. in Engineering (Electrical and Electronics) 
+o	Expertise: Arshad Iqbal (Member, IEEE) received the B.S. degree in electrical computer engineering from the COMSATS Institute of Information Technology (CIIT), Abbottabad, Pakistan, in 2013, and the M.S. and Ph.D. degrees in electrical and computer engineering from Sungkyunkwan University, Suwon, South Korea, in 2020. 
+o	Contact: Arshad.iqbal@spcai.paf-iast.edu.pk
+
+---	Name: Dr. Ihtisham Ali 
+o	Designation: Assistant Professor
+o	Department: Postdoc in Artificial Intelligence 
+o	Expertise: Ihtisham Ali holds a Doctoral degree with distinction in distributed systems from Gyeongsang National University, Jinju, South Korea, in the year 2020. Completed Postdoctoral at Sino-Pakistan Center for Artificial Intelligence (SPCAI) at Pakistan-Austria Fachhochschule-Institute of Applied Sciences and Technology (PAF-IAST). At present, he is working as Assistant Professor CS/IT in the department of Machine Learning in the PAF-IAST.
+o	Contact: ihtisham.ali@spcai.paf-iast.edu.pk
+
+---	Name: Dr. Jamil Ahmed 
+o	Designation: Assistant Professor 
+o	Department: Ph.D. in Mathematics 
+o	Expertise: I am working as an Assistant Professor Mathematics in the department of IT & CS of PAF-IAST since November 2022. I have also worked in National University of Technology, Islamabad and COMSATS University Islamabad for almost ten years. I have a PhD in Mathematics from the Quaid-i-Azam University (2019) and a M. Phil Mathematics from Quaid-i-Azam University (2011). I am working on general theory of relativity (GR) and particularly in my collaborative work, we have constructed some higher curvature gravity theories which are modifying the original GR presented by Einstein. We have also constructed the black hole solutions of these proposed theories. 
+o	Contact: jamil.ahmed@fecid.paf-iast.edu.pk

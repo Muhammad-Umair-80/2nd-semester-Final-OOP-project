@@ -1,0 +1,119 @@
+1. Department of Computer Science
+    Programs Offered:
+     • BS Computer Science
+     • BS Software Engineering
+     • BS Artificial Intelligence
+     • BS Data Science
+     • BS Cyber Security
+
+2. Department of Mechanical and Manufacturing Engineering
+   Programs Offered:
+     • BS Mechanical Engineering Technology
+
+3. Department of Materials Engineering
+    Programs Offered:
+     • BE Materials Engineering
+
+4. Department of Biomedical Engineering
+    Programs Offered:
+     • BS Biomedical Engineering Technology
+""",
+
+    
+Major Subjects for Programs:
+
+BS Artificial Intelligence:
+Introduction to AI
+ Machine Learning
+ Deep Learning
+ Computer Vision
+ Natural Language Processing
+ Robotics
+AI Ethics
+ Data Structures and Algorithms
+ Python Programming
+ AI Applications
+
+BS Software Engineering:
+- Introduction to Software Engineering
+- Object-Oriented Programming
+- Data Structures
+- Software Requirement Engineering
+- Software Design and Architecture
+- Software Testing
+- Web Development
+- Mobile App Development
+- Databases
+- Project Management
+
+BS Computer Science:
+- Programming Fundamentals
+- Data Structures
+- Algorithms
+- Operating Systems
+- Computer Networks
+- Databases
+- Software Engineering
+- Artificial Intelligence
+- Web Technologies
+- Computer Architecture
+
+BS Cyber Security:
+- Introduction to Cyber Security
+- Network Security
+- Cryptography
+- Ethical Hacking
+- Cyber Law
+- Digital Forensics
+- Security Management
+- Risk Assessment
+- System Security
+- Secure Programming
+
+BS Data Science:
+- Introduction to Data Science
+- Statistics
+- Machine Learning
+- Data Mining
+- Data Visualization
+- Big Data Technologies
+- Data Wrangling
+- Python for Data Science
+- Predictive Analytics
+- Database Systems
+
+BS Mechanical Engineering Technology:
+- Engineering Mechanics
+- Thermodynamics
+- Fluid Mechanics
+- Heat Transfer
+- Manufacturing Processes
+- Materials Science
+- Mechanical Design
+- CNC and CAD/CAM
+- Automation and Robotics
+- Power Plants
+
+BE Materials Engineering:
+- Physical Metallurgy
+- Mechanical Behavior of Materials
+- Thermodynamics of Materials
+- Materials Characterization
+- Phase Transformation
+- Polymers and Ceramics
+- Materials Processing
+- Nanomaterials
+- Surface Engineering
+- Composite Materials
+
+BS Biomedical Engineering Technology:
+- Anatomy and Physiology
+- Biomedical Instrumentation
+- Medical Imaging Systems
+- Biomechanics
+- Bioelectricity
+- Biomaterials
+- Clinical Engineering
+- Rehabilitation Engineering
+- Medical Sensors
+- Health Informatics
