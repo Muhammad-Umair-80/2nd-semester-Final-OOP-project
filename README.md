@@ -44,7 +44,7 @@ This is a simple menu-based chatbot built in C++ that provides information about
 ---
 
 ## 🙋‍♂️ Author
-**[Your Name]**  
+**Muhammad Umair**  
 BS Software Engineering — PAF-IAST  
 2nd Semester OOP Lab Project
 
